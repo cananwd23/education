@@ -1,11 +1,12 @@
-<h1> OKUL</h1>
+<h1>EDUCATION</h1>
 
-Öğrenciler ve öğretmenler arasında iletişimi sağlayan bir sistemdir
+A system for communication between students and teachers
 
-<h2>Kullanılan Teknolojiler<h2>
+<h2>USED TECHNOLOGIES<h2>
 
-HTML, CSS üzerinden geliştirildi
+HTML, CSS
 
-<h2>Ekran Görüntüsü</h2>
+<h2>SCREEN</h2>
 
 ![](screen.gif)
+# education
